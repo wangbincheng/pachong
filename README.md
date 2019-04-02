@@ -5,8 +5,8 @@ Python爬虫实例
 
 chromedriver是用于模拟用户进行操作
 
-'''
+```
 from selenium import webdriver
 
 driver = webdriver.Chrome('/Users/'username'/Downloads/chromedriver') //括号内为chromedriver对应的路径
-'''
+```
